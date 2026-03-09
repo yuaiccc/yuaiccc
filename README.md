@@ -1,6 +1,6 @@
 <!-- 这里是标题 -->
 <h1 align="center">Hi there, I'm Xu Junshan 👋</h1>
-<h3 align="center">全栈开发工程师 / Java & Next.js 开发者</h3>
+<h3 align="center">全栈开发</h3>
 
 <br/>
 
