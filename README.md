@@ -48,17 +48,6 @@
 <br/>
 
 <div align="center">
-  <h3>What I Build</h3>
-</div>
-
-- Translation quality-control pipelines for EPUB/books: term consistency, fixed glossary checks, named entity variants, repetition stability, and style outlier reports.
-- Review consoles for human-in-the-loop language QA with persistent annotations and rerunnable pipelines.
-- Language-learning utilities, including Japanese verb conjugation and grammar rule tools.
-- AI chat and writing tools that combine product UI with backend/data workflows.
-
-<br/>
-
-<div align="center">
   <h3>Current Direction</h3>
   <p>
     Building stronger NLP projects around translation QA, terminology management,
