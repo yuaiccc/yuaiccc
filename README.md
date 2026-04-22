@@ -1,10 +1,10 @@
 <h2 align="center">Hi, I'm yuaiccc</h2>
 
 
-<div align="center">
+
   <h2>Core Stack</h2>
 
-  <h3>Languages & Frameworks</h3>
+  <h3>Languages</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=python,go,r,java,vue,nodejs,spring&perline=10" />
   </p>
