@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm yuaiccc</h1>
+<h2 align="center">Hi, I'm yuaiccc</h2>
 
 
 <div align="center">
@@ -6,7 +6,7 @@
 
   <h3>Languages & Frameworks</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,go,r,java,vue,nodejs,java,spring&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,go,r,java,vue,nodejs,spring&perline=10" />
   </p>
 
   <h3>Data & Backend</h3>
@@ -20,14 +20,7 @@
   </p>
 </div>
 
-<br/>
 
-<div align="center">
-  <h2>Education</h2>
-  <h3>Master at Hangzhou Dianzi University</h3>
-</div>
-
-<br/>
 
 <div align="center">
   <h2>Current Direction</h2>
