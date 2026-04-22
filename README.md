@@ -6,12 +6,12 @@
 
   <h3>Languages</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,go,r,java,vue,nodejs,spring&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,python,go,r,java,vue" />
   </p>
 
   <h3>Data & Backend</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postgres,redis,docker,linux&perline=10" />
   </p>
 
 
