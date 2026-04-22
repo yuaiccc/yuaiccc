@@ -14,11 +14,6 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,linux&perline=10" />
   </p>
 
-  <h3>NLP Toolkit</h3>
-  <p>
-    <strong>spaCy</strong> · <strong>scikit-learn</strong> · <strong>Pandas</strong> · <strong>NumPy</strong> · <strong>Streamlit</strong>
-  </p>
-</div>
 
 
 
