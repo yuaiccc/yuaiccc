@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm yuaiccc</h1>
-<h2 align="center">NLP-Focused Developer</h2>
-<h3 align="center">Building text analysis, translation QA, and AI-assisted language tools</h3>
 
 <p align="center">
   <img alt="Practical NLP" src="https://img.shields.io/badge/Practical%20NLP-2E77BC?style=for-the-badge" />
@@ -10,8 +8,7 @@
 
 <p align="center">
   <strong>
-    I build practical NLP systems for terminology consistency, named entity checks,
-    style drift analysis, bilingual QA, and language-learning workflows.
+NLP
   </strong>
 </p>
 
@@ -53,7 +50,7 @@
 
 <div align="center">
   <h2>Education</h2>
-  <h3>Master's student at Hangzhou Dianzi University</h3>
+  <h3>Master at Hangzhou Dianzi University</h3>
 </div>
 
 <br/>
