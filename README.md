@@ -48,6 +48,13 @@
 <br/>
 
 <div align="center">
+  <h3>Education</h3>
+  <p>Master's student at Hangzhou Dianzi University.</p>
+</div>
+
+<br/>
+
+<div align="center">
   <h3>Current Direction</h3>
   <p>
     Building stronger NLP projects around translation QA, terminology management,
