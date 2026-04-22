@@ -1,38 +1,12 @@
 <h1 align="center">Hi, I'm yuaiccc</h1>
 
-<p align="center">
-  <img alt="Practical NLP" src="https://img.shields.io/badge/Practical%20NLP-2E77BC?style=for-the-badge" />
-  <img alt="Translation QA" src="https://img.shields.io/badge/Translation%20QA-6A5ACD?style=for-the-badge" />
-  <img alt="Language Tools" src="https://img.shields.io/badge/Language%20Tools-FFB000?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <strong>
-NLP
-  </strong>
-</p>
-
-<br/>
-
-<div align="center">
-  <h2>Main Focus</h2>
-  <p>
-    <img alt="NLP" src="https://img.shields.io/badge/NLP-2E77BC?style=for-the-badge" />
-    <img alt="Translation QA" src="https://img.shields.io/badge/Translation%20QA-6A5ACD?style=for-the-badge" />
-    <img alt="Text Analysis" src="https://img.shields.io/badge/Text%20Analysis-008B8B?style=for-the-badge" />
-    <img alt="Information Extraction" src="https://img.shields.io/badge/Information%20Extraction-4B8BBE?style=for-the-badge" />
-    <img alt="Language Tools" src="https://img.shields.io/badge/Language%20Tools-FFB000?style=for-the-badge" />
-  </p>
-</div>
-
-<br/>
 
 <div align="center">
   <h2>Core Stack</h2>
 
   <h3>Languages & Frameworks</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,vue,vite,tailwind,nodejs,java,spring&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,go,r,java,vue,nodejs,java,spring&perline=10" />
   </p>
 
   <h3>Data & Backend</h3>
